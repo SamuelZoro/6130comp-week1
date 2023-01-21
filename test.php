@@ -7,6 +7,6 @@
     <title>Cloud week 1</title>
 </head>
 <body>
-<?php echo '<p>Hello from cloud week 1</p>';?>
+<?php echo '<p>Hello from cloud week 1</p>'; echo '<p>I have made a change as an additional task</p>'?>
 </body>
 </html>
